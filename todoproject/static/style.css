@@ -1,0 +1,19 @@
+.banner{
+    background-color:darkseagreen;
+    width:1000%;
+    height:200px;
+    margin-bottom:1em;
+    border:1px dashed red;
+    border-width:2px;
+
+
+}
+.banner-text{
+    color:darkred;
+    font-size:40px;
+    top:20%;
+    left:50%;
+    position:absolute;
+    transform:transform;
+
+}
